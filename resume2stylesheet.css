@@ -1,0 +1,91 @@
+/* Resume2 CSS */
+
+body {
+	
+	background-color: #FFF5EE;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	
+}
+
+
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	margin: 0px 0px 0px 0px;
+
+}
+h2 {
+	text-align: center;
+	font-size: 15px;
+	margin: 0px 0px 0px 0px;
+	font-weight: normal;
+
+}
+h3 {
+	text-align: left;
+	position: relative;
+	bottom: 45px;
+	font-size: 15px;
+	font-weight: normal;
+}
+
+h4 {
+	text-align: right;
+	position: relative;
+	bottom: 120px;
+	font-size: 15px;
+	font-weight: normal;
+}
+h5 {
+	position: relative;
+	bottom: 120px;
+	text-decoration: underline;
+	font-size: 15px;
+	margin-bottom: 5px;
+
+}
+h6 {
+	position: relative;
+	bottom: 120px;
+	font-size: 15px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+}
+h7 {
+	position: relative;
+	bottom: 120px;
+	margin-top: 5px;
+	font-style: italic;
+	font-size: 15px;
+	
+	
+
+}
+
+h8 {
+	position: relative;
+	bottom: 135px;
+	margin-top: 5px;
+	font-weight: bold;
+	font-size: 15px;
+
+}
+ul {
+	position: relative;
+	bottom: 135px;
+	margin-bottom: 5px;
+	font-size: 15px;
+}
+
+.dates {
+	text-align: right;
+	position: relative;
+	bottom: 17px;
+	margin-bottom: 0px;
+	font-size: 15px;
+
+}

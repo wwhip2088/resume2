@@ -35,13 +35,13 @@ h3 {
 h4 {
 	text-align: right;
 	position: relative;
-	bottom: 120px;
+	bottom: 40px;
 	font-size: 15px;
 	font-weight: normal;
 }
 h5 {
 	position: relative;
-	bottom: 120px;
+	bottom: 40px;
 	text-decoration: underline;
 	font-size: 15px;
 	margin-bottom: 5px;
@@ -49,7 +49,7 @@ h5 {
 }
 h6 {
 	position: relative;
-	bottom: 120px;
+	bottom: 40px;
 	font-size: 15px;
 	margin-top: 5px;
 	margin-bottom: 5px;
@@ -57,7 +57,7 @@ h6 {
 }
 h7 {
 	position: relative;
-	bottom: 120px;
+	bottom: 50px;
 	margin-top: 5px;
 	font-style: italic;
 	font-size: 15px;
@@ -68,7 +68,7 @@ h7 {
 
 h8 {
 	position: relative;
-	bottom: 135px;
+	bottom: 62px;
 	margin-top: 5px;
 	font-weight: bold;
 	font-size: 15px;
@@ -76,7 +76,7 @@ h8 {
 }
 ul {
 	position: relative;
-	bottom: 135px;
+	bottom: 55px;
 	margin-bottom: 5px;
 	font-size: 15px;
 }
